@@ -9,7 +9,7 @@ Criar uma aplicação com um banco de dados e uma página web que permita remota
 ## - Meu ambiente de desenvolvimento:
 
 <p>
-Windows 11 / WSL2 - Ubuntu com Docker Desktop V 4.51.0, minikube V.1.37, kubectl V.1.34.1. IDE: Visual Studio Code + Copilot Pro; Terminal, Power Shell V.7.5.4, notepad++, GitHub Desktop.
+Windows 11 / WSL2 - Ubuntu com Docker Desktop V 4.51.0, minikube V.1.37, kubectl V.1.34.1. IDE: Visual Studio Code + Copilot Pro; Terminal, Power Shell V.7.5.4, notepad++, GitHub Desktop. E, no final, usei Minikube com --driver Hyper-V.
 </p>
 
 ##  - Aplicação:
