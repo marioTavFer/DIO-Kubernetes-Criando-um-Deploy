@@ -70,13 +70,13 @@ final do script mostra vários dados (Pods, Services)
 
 <div align="center">
 <p float="left">
- <img src="podsStatus.jpg" width="200" />
+ <img src="podsStatus.jpg" width="400" />
 </p>
 </div>
 
 <div align="center">
 <p float="left">
- <img src="ServicesCheck.jpg" width="200" />
+ <img src="ServicesCheck.jpg" width="400" />
 </p>
 </div>
 .....
@@ -120,7 +120,7 @@ mysql> select * from mensagens;
 
 <div align="center">
 <p float="left">
- <img src="telaFrontend2.jpg" width="200" />
+ <img src="telaFrontend2.jpg" width="600" />
 </p>
 </div>
 
