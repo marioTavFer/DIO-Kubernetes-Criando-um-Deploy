@@ -1,12 +1,16 @@
 # Projeto 1- Kubernetes - criar um deploy
 
- ## - Objetivo:
-    
-    - Criar uma aplicação com um banco de dados e uma página web que permita remotamente inserir um registro no banco de dados,  utilizando como base arquivos fornecidos pelo professor Denilson Bonatti, disponíveis em github: https://github.com/denilsonbonatti/k8s-projeto1-app-base.
+## - Objetivo:
 
- ## - Meu ambiente de desenvolvimento:
+<p> 
+Criar uma aplicação com um banco de dados e uma página web que permita remotamente inserir um registro no banco de dados,  utilizando como base arquivos fornecidos pelo professor Denilson Bonatti, disponíveis em github: https://github.com/denilsonbonatti/k8s-projeto1-app-base.
+</p>
 
-        - Windows 11 / WSL2 - Ubuntu com Docker Desktop V 4.51.0, minikube V.1.37, kubectl V.1.34.1. IDE: Visual Studio Code + Copilot Pro; Terminal, Power Shell V.7.5.4, notepad++, GitHub Desktop.
+## - Meu ambiente de desenvolvimento:
+
+<p>
+Windows 11 / WSL2 - Ubuntu com Docker Desktop V 4.51.0, minikube V.1.37, kubectl V.1.34.1. IDE: Visual Studio Code + Copilot Pro; Terminal, Power Shell V.7.5.4, notepad++, GitHub Desktop.
+</p>
 
 ##  - Aplicação:
 
