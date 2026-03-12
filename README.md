@@ -38,7 +38,7 @@ Windows 11 / WSL2 - Ubuntu com Docker Desktop V 4.51.0, minikube V.1.37, kubectl
 
 ## Considerações iniciais:
 
-O projeto foi iniciado com W11/WLS2 + Docker Cesktop + Minikube em máquina local (rede local). Foi verificado que Minikube não disponibiliza IP externo de acordo com sua rede local, ele por 'default' disponibiliza 192.168.49.0/24. Poderia ter mudado o projeto com outras alternativas, nginx, ingress, proxy reverso, etc, ou utilizado a nuvem (AWS, GCP, Azure), mas queria criar ambiente local para outros projetos.
+O projeto foi iniciado com W11/WSL2 + Docker Cesktop + Minikube em máquina local (rede local). Foi verificado que Minikube não disponibiliza IP externo de acordo com sua rede local, ele por 'default' disponibiliza 192.168.49.0/24. Poderia ter mudado o projeto com outras alternativas, nginx, ingress, proxy reverso, etc, ou utilizado a nuvem (AWS, GCP, Azure), mas queria criar ambiente local para outros projetos.
 
 Logo, mantive a proposta inicial, até fazer upload das imagens (database e backend) para o Docker Hub. Depois executei um 'microkube delete'. Recriei o microkube com driver Hyper-V, fiz um Pull das imagens do Docker hub e funcionou na primeira tentativa (detalhe: o windows tem que ser versão PRO para ter acesso ao gerenciamento do Hyper-V para criar um 'MinikubeSwitch' (Virtual Switch).
 
